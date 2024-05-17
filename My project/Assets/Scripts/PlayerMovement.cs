@@ -9,6 +9,12 @@ public class PlayerMovement : MonoBehaviour
     private float jumpingPower = 20f;
     private bool isFacingRight = true;
 
+    private float coyoteTime = 0.1f;
+    private float coyoteTimeCounter;
+
+    private float jumpBufferTime = 0.05f;
+    private float jumpBufferCounter;
+
     [SerializeField] private Rigidbody2D rb;
     [SerializeField] private Transform groundCheck;
     [SerializeField] private LayerMask groundLayer;
