@@ -9,7 +9,7 @@ public class PlayerMovement : MonoBehaviour
     private float jumpingPower = 25f;
     private bool isFacingRight = true;
 
-    private float coyoteTime = 0.1f;
+    private float coyoteTime = 0.12f;
     private float coyoteTimeCounter;
 
     private float jumpBufferTime = 0.05f;
