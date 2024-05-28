@@ -16,8 +16,8 @@ public class PlayerMovement : MonoBehaviour
     private float wallJumpingDirection;
     private float wallJumpingTime = 0.2f;
     private float wallJumpingCounter;
-    private float wallJumpingDuration = 0.4f;
-    private Vector2 wallJumpingPower = new Vector2(8f, 16f);
+    private float wallJumpingDuration = 0.1f;
+    private Vector2 wallJumpingPower = new Vector2(10f, 20f);
 
     private float coyoteTime = 0.12f;
     private float coyoteTimeCounter;
