@@ -5,7 +5,7 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
     private float horizontal;
-    private float speed = 15f;
+    private float speed = 12f;
     private float jumpingPower = 21f;
     private bool isFacingRight = true;
 
@@ -17,7 +17,7 @@ public class PlayerMovement : MonoBehaviour
     private float wallJumpingTime = 0.2f;
     private float wallJumpingCounter;
     private float wallJumpingDuration = 0.1f;
-    private Vector2 wallJumpingPower = new Vector2(10f, 20f);
+    private Vector2 wallJumpingPower = new Vector2(5f, 15f);
 
     private float coyoteTime = 0.12f;
     private float coyoteTimeCounter;
