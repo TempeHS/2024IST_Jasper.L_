@@ -31,6 +31,8 @@ public class PlayerMovement : MonoBehaviour
     private float dashingTime = 0.3f;
     private float dashingCooldown = 0.8f;
 
+    public Animator animator;
+
     [SerializeField] private Rigidbody2D rb;
     [SerializeField] private Transform groundCheck;
     [SerializeField] private LayerMask groundLayer;
@@ -92,6 +94,10 @@ public class PlayerMovement : MonoBehaviour
         {
             Flip();
         }
+
+        animator.SetFloat("Speed", Mathf.Abs(horizontal));
+        animator.SetBool("IsJumping", !IsGrounded());
+        animator.SetBool("WallSlide", IsWalled());
     }
 
     private void FixedUpdate()
