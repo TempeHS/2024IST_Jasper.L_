@@ -27,9 +27,9 @@ public class PlayerMovement : MonoBehaviour
 
     private bool canDash = true;
     private bool isDashing;
-    private float dashingPower = 1000f;
-    private float dashingTime = 0.3f;
-    private float dashingCooldown = 0.8f;
+    private float dashingPower = 40f;
+    private float dashingTime = 0.2f;
+    private float dashingCooldown = 0.2f;
 
     public Animator animator;
 
@@ -93,6 +93,16 @@ public class PlayerMovement : MonoBehaviour
         if (!isWallJumping)
         {
             Flip();
+        }
+
+        if (isDashing)
+        {
+            speed = 40f;
+        }
+
+        else
+        {
+            speed = 12f;
         }
 
         animator.SetFloat("Speed", Mathf.Abs(horizontal));
@@ -191,7 +201,7 @@ public class PlayerMovement : MonoBehaviour
         isDashing = true;
         float originalGravity = rb.gravityScale;
         rb.gravityScale = 0f;
-        rb.velocity = new Vector2(transform.localScale.x * dashingPower, 0f);
+        rb.velocity = new Vector2(transform.localScale.x * dashingPower, 10f);
         tr.emitting = true;
         yield return new WaitForSeconds(dashingTime);
         tr.emitting = false;
