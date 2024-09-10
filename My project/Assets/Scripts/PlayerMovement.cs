@@ -16,8 +16,8 @@ public class PlayerMovement : MonoBehaviour
     private float wallJumpingDirection;
     private float wallJumpingTime = 0.2f;
     private float wallJumpingCounter;
-    private float wallJumpingDuration = 0.1f;
-    private Vector2 wallJumpingPower = new Vector2(5f, 15f);
+    private float wallJumpingDuration = 0.2f;
+    private Vector2 wallJumpingPower = new Vector2(10f, 20f);
 
     private float coyoteTime = 0.12f;
     private float coyoteTimeCounter;
@@ -29,7 +29,7 @@ public class PlayerMovement : MonoBehaviour
     private bool isDashing;
     private float dashingPower = 40f;
     private float dashingTime = 0.2f;
-    private float dashingCooldown = 0.2f;
+    private float dashingCooldown = 1f;
 
     public Animator animator;
 
