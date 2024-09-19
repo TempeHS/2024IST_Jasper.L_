@@ -3,12 +3,13 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Collectable : MonoBehaviour
-{/*
+{
+    private GameObject collectable;
     void Update()
     {
-        if (collision.gameObject.CompareTag("Player"))
+        if (gameObject.CompareTag("Player"))
         {
-            SetActive(false);
+            gameObject.SetActive(false);
         }
-    }*/
+    }
 }
