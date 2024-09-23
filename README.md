@@ -22,7 +22,7 @@ yadayada
 
 # Tutorials
 
-![The control scheme of my game fore an xbox controller]("C:\Users\jaspe\OneDrive\Documents\GitHub\2024IST_Jasper.L_\My project\Assets\Sprites\Control Scheme.png")
+![The control scheme of my game for an xbox controller]("https://github.com/TempeHS/2024IST_Jasper.L_/blob/main/My%20project/Assets/Sprites/Control%20Scheme.png")
 
 # Documentation
 
