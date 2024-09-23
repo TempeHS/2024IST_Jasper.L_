@@ -32,3 +32,6 @@ A little explination on how I made the game and the skills I aquired.
 
 Kano the multimedia partner
 [add media examples]
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
