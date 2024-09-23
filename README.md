@@ -22,7 +22,7 @@ yadayada
 
 # Tutorials
 
-{"PadCrafter":{"":[{"templatename":"Controller Scheme 1","buttons":{"leftStick":"Player Movement","rightTrigger":"Attack","aButton":"Jump","yButton":"Jump","xButton":"Dash","bButton":"Dash","rightStick":"View","startButton":"Pause menu","backButton":"Main menu"}}]}}
+![The control scheme of my game fore an xbox controller]("C:\Users\jaspe\OneDrive\Documents\GitHub\2024IST_Jasper.L_\My project\Assets\Sprites\Control Scheme.png")
 
 # Documentation
 
