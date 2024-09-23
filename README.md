@@ -15,3 +15,20 @@
 # Overview
 
 yadayada
+
+# Walkthrough
+
+[video link]
+
+# Tutorials
+
+[Controller Scheme]
+
+# Documentation
+
+A little explination on how I made the game and the skills I aquired
+
+# Collaboration
+
+Kano the multimedia partner
+[add media examples]
