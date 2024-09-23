@@ -26,7 +26,7 @@ yadayada
 
 # Documentation
 
-A little explination on how I made the game and the skills I aquired
+A little explination on how I made the game and the skills I aquired.
 
 # Collaboration
 
