@@ -7,10 +7,10 @@
 # Table of Contents
 
 1. [Overview](https://github.com/TempeHS/2024IST_Jasper.L_?tab=readme-ov-file#overview)
-2. Walkthrough
-3. Tutorials
-4. Documentation
-5. Collaboration
+2. [Walkthrough](https://github.com/TempeHS/2024IST_Jasper.L_?tab=readme-ov-file#walkthrough)
+3. [Tutorials](https://github.com/TempeHS/2024IST_Jasper.L_?tab=readme-ov-file#tutorials)
+4. [Documentation](https://github.com/TempeHS/2024IST_Jasper.L_?tab=readme-ov-file#documentation)
+5. [Collaboration](https://github.com/TempeHS/2024IST_Jasper.L_?tab=readme-ov-file#collaboration)
 
 # Overview
 
