@@ -6,7 +6,7 @@
 
 # Table of Contents
 
-1. [Overview] (https://github.com/TempeHS/2024IST_Jasper.L_?tab=readme-ov-file#overview)
+1. [Overview](https://github.com/TempeHS/2024IST_Jasper.L_?tab=readme-ov-file#overview)
 2. Walkthrough
 3. Tutorials
 4. Documentation
