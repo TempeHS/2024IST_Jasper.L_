@@ -22,7 +22,7 @@ yadayada
 
 # Tutorials
 
-[Controller Scheme]
+{"PadCrafter":{"":[{"templatename":"Controller Scheme 1","buttons":{"leftStick":"Player Movement","rightTrigger":"Attack","aButton":"Jump","yButton":"Jump","xButton":"Dash","bButton":"Dash","rightStick":"View","startButton":"Pause menu","backButton":"Main menu"}}]}}
 
 # Documentation
 
