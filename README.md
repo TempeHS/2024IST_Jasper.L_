@@ -25,6 +25,7 @@ yadayada
 # Control Schemes
 
 ![The control scheme of my game for an xbox controller](https://github.com/user-attachments/assets/9d09c65f-24d2-4789-90e9-47b714064592)
+![The control scheme of my game for a keyboard](https://github.com/user-attachments/assets/ed4f858b-429b-4a59-bb0d-030d02c57439)
 
 # Documentation
 
