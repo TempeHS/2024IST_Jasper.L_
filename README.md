@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/97361059-45151700-185c-11eb-9d12-dae51c79eb8a.png">
+ <img src="https://github.com/user-attachments/assets/92e5e71a-85b8-48f2-b7c0-8a8ae8c2c638">
   <br />
  2024IST_Jasper.L_
 </h1>
@@ -22,9 +22,7 @@ yadayada
 
 # Tutorials
 
-![The control scheme of my game for an xbox controller]("https://github.com/Swebwite/Myproject/Assets/Sprites/ControlScheme.png")
-![The control scheme of my game for an xbox controller](https://github.com/user-attachments/assets/92e5e71a-85b8-48f2-b7c0-8a8ae8c2c638)
-
+![The control scheme of my game for an xbox controller](https://github.com/user-attachments/assets/9d09c65f-24d2-4789-90e9-47b714064592)
 
 # Documentation
 
