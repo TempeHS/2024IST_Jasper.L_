@@ -19,6 +19,8 @@ yadayada
 # Walkthrough
 
 [video link]
+![Video Walkthrough](https://github.com/user-attachments/assets/d26e619d-0769-44e4-9db9-faf8b1644fa0)
+
 
 # Tutorials
 
