@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://github.com/user-attachments/assets/92e5e71a-85b8-48f2-b7c0-8a8ae8c2c638">
+ <img src="https://github.com/user-attachments/assets/92e5e71a-85b8-48f2-b7c0-8a8ae8c2c638" | width=100>
   <br />
  2024IST_Jasper.L_
 </h1>
