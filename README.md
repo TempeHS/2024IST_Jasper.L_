@@ -22,7 +22,7 @@ yadayada
 ![Video Walkthrough](https://github.com/user-attachments/assets/d26e619d-0769-44e4-9db9-faf8b1644fa0)
 
 
-# Tutorials
+# Control Schemes
 
 ![The control scheme of my game for an xbox controller](https://github.com/user-attachments/assets/9d09c65f-24d2-4789-90e9-47b714064592)
 
