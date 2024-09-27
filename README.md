@@ -29,11 +29,12 @@ yadayada
 
 # Documentation
 
-- https://www.youtube.com/watch?v=K1xZ-rycYY8
-- https://www.youtube.com/watch?v=O6VX6Ro7EtA&t=1s
-- https://www.youtube.com/watch?v=DX7HyN7oJjE
-- https://www.youtube.com/watch?v=2kFGmuPHiA0
-- https://www.youtube.com/watch?v=2S3g8CgBG1g
+I followed a few tutorials from Youtube to aid in the creation and improvement of my game.
+- [2D player movement - Bendux](https://www.youtube.com/watch?v=K1xZ-rycYY8)
+- [Wall slide and wall jump - Bendux](https://www.youtube.com/watch?v=O6VX6Ro7EtA&t=1s)
+- [Main menu - Rehope Games](https://www.youtube.com/watch?v=DX7HyN7oJjE)
+- [Dash - Bendux](https://www.youtube.com/watch?v=2kFGmuPHiA0)
+- [Jump improvements - Dawnosuar](https://www.youtube.com/watch?v=2S3g8CgBG1g)
 
 # Collaboration
 
