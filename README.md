@@ -1,7 +1,7 @@
 <h1 align="center">
  <img src="https://github.com/user-attachments/assets/92e5e71a-85b8-48f2-b7c0-8a8ae8c2c638" | width=500>
   <br />
- 2024IST_Jasper.L_
+ 2024IST_Jasper.L - They Bleed Paint
 </h1>
 
 # Table of Contents
@@ -14,7 +14,7 @@
 
 # Overview
 
-yadayada
+d
 
 # Walkthrough
 
@@ -35,6 +35,19 @@ I followed a few tutorials from Youtube to aid in the creation and improvement o
 - [Main menu - Rehope Games](https://www.youtube.com/watch?v=DX7HyN7oJjE)
 - [Dash - Bendux](https://www.youtube.com/watch?v=2kFGmuPHiA0)
 - [Jump improvements - Dawnosuar](https://www.youtube.com/watch?v=2S3g8CgBG1g)
+
+## Planned Features
+- More levels
+- Dash collectible fix
+- Add player features
+  - Attack
+  - Double jump upgrade
+- Add enemy
+  - Attack animation
+  - Walking animation
+  - Idle animation
+  - Pathing
+  - Damaging player
 
 # Collaboration
 
