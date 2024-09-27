@@ -29,7 +29,11 @@ yadayada
 
 # Documentation
 
-A little explination on how I made the game and the skills I aquired.
+- https://www.youtube.com/watch?v=K1xZ-rycYY8
+- https://www.youtube.com/watch?v=O6VX6Ro7EtA&t=1s
+- https://www.youtube.com/watch?v=DX7HyN7oJjE
+- https://www.youtube.com/watch?v=2kFGmuPHiA0
+- https://www.youtube.com/watch?v=2S3g8CgBG1g
 
 # Collaboration
 
