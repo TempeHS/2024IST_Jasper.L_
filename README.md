@@ -13,9 +13,7 @@
 
 # Walkthrough
 
-[video link]
-![Video Walkthrough](https://github.com/user-attachments/assets/d26e619d-0769-44e4-9db9-faf8b1644fa0)
-
+https://github.com/user-attachments/assets/16e97765-cb57-4bec-85a9-c62ff41d8052
 
 # Control Schemes
 
